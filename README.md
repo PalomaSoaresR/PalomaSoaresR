@@ -15,5 +15,5 @@
 
 Se você quiser entrar em contato, sinta-se à vontade para me enviar um email ou conectar-se via LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PalomaSoares-blue)](https://www.linkedin.com/in/palomasoaresr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PalomaSoares-blue)](https://www.linkedin.com/in/paloma-soares-83a949208/)
 [![Gmail](https://img.shields.io/badge/Gmail-paloma.soaresrocha@gmail.com-red)](mailto:seuemail@gmail.com)
