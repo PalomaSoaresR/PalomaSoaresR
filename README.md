@@ -7,10 +7,12 @@
 
 - [API Fatec 1° semestre](https://github.com/Porygon-Users/API-Porygon)
 - [API Fatec 2° semestre](https://github.com/Javali-FATEC/API-2-semestre)
+- [API Fatec 3° semestre](https://github.com/Morpheus-Fatec/morpheus)
 
 ## Skills 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 
 ## IDE
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
