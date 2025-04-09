@@ -5,9 +5,9 @@
 
 ## Projetos Recentes
 
-- [API Fatec 1° semestre](https://github.com/Porygon-Users/API-Porygon)
-- [API Fatec 2° semestre](https://github.com/Javali-FATEC/API-2-semestre)
-- [API Fatec 3° semestre](https://github.com/Morpheus-Fatec/morpheus)
+- [API Fatec 1° semestre](https://github.com/PalomaSoaresR/API-Porygon)
+- [API Fatec 2° semestre](https://github.com/PalomaSoaresR/API-2-semestre)
+- [API Fatec 3° semestre](https://github.com/PalomaSoaresR/morpheus)
 
 ## Skills 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
