@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/PalomaSoaresR/PalomaSoaresR/output/snake.svg" alt="Snake animation" />
-
 # Olá, sou a Paloma Soares
 
 <div align="center">
@@ -37,11 +35,10 @@
 
 Se você quiser entrar em contato, sinta-se à vontade para me enviar um email ou conectar-se via LinkedIn. ⤵️
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg=[LINK-DO-SEU-GMAIL](https://paloma.soaresrocha@gmail.com)(mailto:seuemail@gmail.com)" alt="Gmail"/></a>
-   <a href="#" title="LinkedIn">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paloma-soares-83a949208/)" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[LINK-DO-SEU-GMAIL](https://paloma.soaresrocha@gmail.com)(mailto:seuemail@gmail.com)" alt="Gmail"/></a>
+    <a href="#" title="LinkedIn">
+   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paloma-soares-83a949208/)" alt="LinkedIn"/></a>
+ 
 
  
 
